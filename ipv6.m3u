@@ -122,101 +122,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=dea92cecd7f9657b1ba06b601f231960&time=666f4b59
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://stream.freetv.fun/d6840abde0aa2e69f330e183b7121b048d1b6c73114b4cc60203f6e4f1938392.ctv
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="咪咕直播",咪咕运动
-http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K Ⅰ
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K Ⅱ
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙*
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚*
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛*
-http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟜*
-http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟜
-http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟝
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟞
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟟
-http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟠
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟡
-http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟘
-http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟙
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟚
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟛
-http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟜
-http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟝
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟞
-http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟟
-http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟠
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟙𝟡
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟘
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟙
-http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟚
-http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟛
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟜
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟝
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟞
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟟
-http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟠
-http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟚𝟡
-http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟘
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟙
-http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟚
-http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟛
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟜
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟝
-http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟛𝟞
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播4K Ⅰ
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播4K Ⅱ
@@ -297,7 +207,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播 𝟛𝟠
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播 𝟛𝟡𝟘
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播 𝟛𝟡
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播 𝟜𝟘
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
@@ -428,11 +338,11 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 #EXTINF:-1 tvg-id="GS07" tvg-name="甘肃兰州文旅" group-title="地区",甘肃兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
-http://113.64.145.34:8081/hls/38/index.m3u8
+http://113.64.147.238:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
-http://113.64.145.34:8081/hls/37/index.m3u8
+http://113.64.147.238:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
-http://113.64.145.34:8081/hls/36/index.m3u8
+http://113.64.147.238:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://yang-1989.eu.org/logo/环球电视.png" group-title="港澳台",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://yang-1989.eu.org/logo/香港卫视.png" group-title="港澳台",香港卫视
@@ -440,7 +350,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://yang-1989.eu.org/logo/无线新闻.png" group-title="港澳台",无线新闻
 https://yang-1989.eu.org/tvb/wxxw
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="港澳台",翡翠台
-https://yang-1989.eu.org/tvb/fct
+http://fm1077.serv00.net/Smart.php?id=jade_twn
 https://stream.freetv.fun/6a5db861f69d8e928c116e919c45af99b1968d1bb200885b84f97fa9349224ca.m3u8
 https://stream.freetv.fun/tvbfei-cui-tai-1.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://yang-1989.eu.org/logo/明珠台.png" group-title="港澳台",明珠台
