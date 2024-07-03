@@ -224,35 +224,35 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
-http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+http://203.88.42.189:55555/udp/239.10.0.199:1025
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
-http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+http://203.88.42.189:55555/udp/239.10.0.113:1025
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+http://203.88.42.189:55555/udp/239.10.0.63:1025
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
+http://203.88.42.189:55555/udp/239.11.0.78:1025
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
-http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
+http://203.88.42.189:55555/udp/239.11.0.80:1025
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
 http://203.88.42.189:55555/udp/239.10.0.46:1025
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东",广东影视
-http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="广东",广东综艺
-http://119.123.219.189:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="广东",南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+http://203.88.42.189:55555/udp/239.11.0.79:1025
+#EXTINF:-1 tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="广东",广东综艺 4K
+http://203.88.42.189:55555/udp/239.10.0.75:1025
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="广东",南国都市 4K
+http://203.88.42.189:55555/udp/239.11.0.170:1025
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
-http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
+http://203.88.42.189:55555/udp/239.11.0.138:1025
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
-http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
+http://203.88.42.189:55555/udp/239.11.0.139:1025
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
-http://ddns.cyruslee.top:8888/udp/239.253.43.74:5146
+http://203.88.42.189:55555/udp/239.11.0.141:1025
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="广东",广州竞赛
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=25a35ccc553f667336efd28f9634d2d1&txTime=18fe446bc02
+http://203.88.42.189:55555/udp/239.11.0.142:1025
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
-http://ddns.cyruslee.top:8888/udp/239.253.43.73:5146
+http://203.88.42.189:55555/udp/239.11.0.140:1025
 #EXTINF:-1 tvg-name="广东少儿频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东",广东少儿频道
-http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
+http://203.88.42.189:55555/udp/239.11.0.81:1025
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://120.234.49.38:7000/udp/239.21.0.94:3716
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="地区",东方财经
@@ -347,46 +347,20 @@ http://113.64.147.238:8081/hls/36/index.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://yang-1989.eu.org/logo/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://yang-1989.eu.org/logo/无线新闻.png" group-title="港澳台",无线新闻
-https://yang-1989.eu.org/tvb/wxxw
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://fm1077.serv00.net/Smart.php?id=jade_twn
-https://stream.freetv.fun/6a5db861f69d8e928c116e919c45af99b1968d1bb200885b84f97fa9349224ca.m3u8
-https://stream.freetv.fun/tvbfei-cui-tai-1.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://yang-1989.eu.org/logo/明珠台.png" group-title="港澳台",明珠台
-https://yang-1989.eu.org/tvb/mzt
 #EXTINF:-1 tvg-name="Bread TV面包台 (720p)" tvg-logo="https://yang-1989.eu.org/logo/面包台.png" group-title="港澳台",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://yang-1989.eu.org/logo/RTHK31.png" group-title="港澳台",RTHK 31
-https://yang-1989.eu.org/tvb/rthk31
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://yang-1989.eu.org/logo/RTHK32.png" group-title="港澳台",RTHK 32
-https://yang-1989.eu.org/tvb/rthk32
+
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://yang-1989.eu.org/logo/RTHK33.png" group-title="港澳台",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://yang-1989.eu.org/logo/RTHK34.png" group-title="港澳台",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://yang-1989.eu.org/logo/RTHK35.png" group-title="港澳台",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://yang-1989.eu.org/logo/ViuTV.png" group-title="港澳台",Viu TV
-https://yang-1989.eu.org/tvb/viu
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://yang-1989.eu.org/logo/千禧经典.png" group-title="港澳台",TVB 千禧经典
-https://yang-1989.eu.org/tvb/qxjd
-#EXTINF:-1 tvg-name="华丽台" tvg-logo="https://yang-1989.eu.org/logo/华丽台.png" group-title="港澳台",华丽台
-https://yang-1989.eu.org/tvb/wlt
-#EXTINF:-1 tvg-name="欢喜台" tvg-logo="https://yang-1989.eu.org/logo/欢喜台.png" group-title="港澳台",欢喜台
-https://yang-1989.eu.org/tvb/hxt
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gitee.com/milex2023/logo/raw/master/logo/TVBJ1.png" group-title="港澳台",TVBJ1
-https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-name="星河台" tvg-logo="https://yang-1989.eu.org/logo/星河台.png" group-title="港澳台",TVB 星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://yang-1989.eu.org/logo/j2.png" group-title="港澳台",J2
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://yang-1989.eu.org/logo/TVBPlus.png" group-title="港澳台",TVB Plus
-https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://gitee.com/milex2023/logo/raw/master/logo/TVB娱乐新闻台.jpg" group-title="港澳台",TVB娱乐新闻
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="功夫台" tvg-logo="https://yang-1989.eu.org/logo/功夫台.png" group-title="港澳台",功夫台
-https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://yang-1989.eu.org/logo/纯享4K.png" group-title="4K 频道",4K·UHD「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://yang-1989.eu.org/logo/华数4K.png" group-title="4K 频道",4K 影视¹「IPV6」
