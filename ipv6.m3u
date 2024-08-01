@@ -9,6 +9,67 @@ rtsp://[2409:8087:2001:20:2800:0:df6e:eb20]:554/ott.mobaibox.com/000000400000001
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🏆2024奥运会🏆",CCTV-5+ 体育赛事
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
 
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",咪咕奥运会 4K
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV4K 超高清
+http://148.135.93.213:81/live.php?id=CCTV4K
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV16-4K (ipv6)
+http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV5 体育
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆",CCTV16 奥林匹克
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="ELTA體育-1台" tvg-name="ELTA 體育 1 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运1台
+https://api.btbt.im/live?id=elta-oly1
+#EXTINF:-1 tvg-id="ELTA體育-2台" tvg-name="ELTA 體育 2 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运2台
+https://api.btbt.im/live?id=elta-oly2
+#EXTINF:-1 tvg-id="ELTA體育-3台" tvg-name="ELTA 體育 3 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运3台
+https://api.btbt.im/live?id=elta-oly3
+#EXTINF:-1 tvg-id="ELTA體育-4台" tvg-name="ELTA 體育 4 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运4台
+https://api.btbt.im/live?id=elta-oly4
+#EXTINF:-1 tvg-id="ELTA 體育 5 台" tvg-name="ELTA 體育 5 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运5台
+https://api.btbt.im/live?id=elta-oly5
+#EXTINF:-1 tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运6台
+https://api.btbt.im/live?id=elta-oly6
+#EXTINF:-1 tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运7台
+https://api.btbt.im/live?id=elta-oly7
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="myTV SUPER Olympics 801" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="🏆2024奥运会🏆",奧運801台
+https://tvb.mytvsuper.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="myTV SUPER Olympics 802" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="🏆2024奥运会🏆",奧運802台
+https://tvb.mytvsuper.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="myTV SUPER Olympics 803" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="🏆2024奥运会🏆",奧運803台
+https://tvb.mytvsuper.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="myTV SUPER Olympics 804" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="🏆2024奥运会🏆",奧運804台
+https://tvb.mytvsuper.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="myTV SUPER Olympics 805" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="🏆2024奥运会🏆",奧運805台
+https://tvb.mytvsuper.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="myTV SUPER Olympics 806" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="🏆2024奥运会🏆",奧運806台
+https://tvb.mytvsuper.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="myTV SUPER Olympics 807" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="🏆2024奥运会🏆",奧運807台
+https://tvb.mytvsuper.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="myTV SUPER Olympics 808" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="🏆2024奥运会🏆",奧運808台
+https://tvb.mytvsuper.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="myTV SUPER Olympics 809" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="🏆2024奥运会🏆",奧運809台
+https://tvb.mytvsuper.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="myTV SUPER Olympics 810" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="🏆2024奥运会🏆",奧運810台
+https://tvb.mytvsuper.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="myTV SUPER Olympics 811" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="🏆2024奥运会🏆",奧運811台
+https://tvb.mytvsuper.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="myTV SUPER Olympics 812" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="🏆2024奥运会🏆",奧運812台
+https://tvb.mytvsuper.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="myTV SUPER Olympics 813" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="🏆2024奥运会🏆",奧運813台
+https://tvb.mytvsuper.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="myTV SUPER Olympics 814" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="🏆2024奥运会🏆",奧運814台
+https://tvb.mytvsuper.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="myTV SUPER Olympics 815" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="🏆2024奥运会🏆",奧運815台
+https://tvb.mytvsuper.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="myTV SUPER Olympics 816" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="🏆2024奥运会🏆",奧運816台
+https://tvb.mytvsuper.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="myTV SUPER Olympics News" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="🏆2024奥运会🏆",奧運817台
+https://tvb.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="myTV SUPER Olympics News" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="🏆2024奥运会🏆",奧運817台
+https://api.btbt.im/live?id=mytvsuper-oly817
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
