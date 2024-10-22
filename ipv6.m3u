@@ -131,6 +131,28 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+
+#EXTINF:-1,tvg-id="10041" tvg-name="赛事-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="综合赛事",体育赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline01
+#EXTINF:-1,tvg-id="10042" tvg-name="赛事-2" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="综合赛事",体育赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline02
+#EXTINF:-1,tvg-id="10043" tvg-name="赛事-3" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="综合赛事",体育赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline03
+#EXTINF:-1,tvg-id="10044" tvg-name="赛事-4" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="综合赛事",体育赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline04
+#EXTINF:-1,tvg-id="10045" tvg-name="赛事-5" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="综合赛事",体育赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline05
+#EXTINF:-1,tvg-id="10046" tvg-name="赛事-6" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="综合赛事",体育赛事-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline06
+#EXTINF:-1,tvg-id="10047" tvg-name="赛事-7" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="综合赛事",体育赛事-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline07
+#EXTINF:-1,tvg-id="10048" tvg-name="赛事-8" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="综合赛事",体育赛事-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline08
+#EXTINF:-1,tvg-id="10049" tvg-name="赛事-9" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="综合赛事",体育赛事-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline09
+#EXTINF:-1,tvg-id="10050" tvg-name="赛事-10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="综合赛事",体育赛事-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline10
+
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播4K Ⅰ
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播-移动",咪咕直播4K Ⅱ
