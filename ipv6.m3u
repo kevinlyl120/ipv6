@@ -226,17 +226,13 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
-http://116.28.124.202:8520/udp/239.77.0.173:5146
+http://219.159.194.108:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
-http://116.28.124.202:8520/udp/239.77.0.112:5146
+http://222.218.158.86:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://116.28.124.202:8520/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://php.iptviptv.site/iptv.php?id=gdzjzj
+http://222.218.158.156:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://116.28.124.202:8520/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://php.iptviptv.site/iptv.php?id=dawanqu678
+http://113.119.62.33:8090/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
 http://116.28.124.202:8520/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
@@ -248,13 +244,17 @@ http://116.28.124.202:8520/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://116.28.124.202:8520/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
-http://116.28.124.202:8520/udp/239.253.43.71:5146
+http://dns.yiandrive.com:10472/gztv/zhonghe
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
-http://116.28.124.202:8520/udp/239.253.43.72:5146
+http://dns.yiandrive.com:10472/gztv/xinwen
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
-http://116.28.124.202:8520/udp/239.253.43.74:5146
+http://dns.yiandrive.com:10472/gztv/fazhi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
-http://116.28.124.202:8520/udp/239.253.43.73:5146
+http://dns.yiandrive.com:10472/gztv/yingshi
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="广东",广州竞赛
+http://dns.yiandrive.com:10472/gztv/jingsai
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="广东",南国都市
+http://dns.yiandrive.com:10472/gztv/shenghuo
 
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://yang-1989.eu.org/logo/NewTV哒啵赛事.png" group-title="NewTV",NewTV 哒啵赛事
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
@@ -342,15 +342,15 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8
 http://litv.zapi.us.kg/?id=4gtv-4gtv039
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="台湾",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娱乐
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾",中天新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
-http://litv.zapi.us.kg/?id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="台湾",台视财经
 http://litv.zapi.us.kg/?id=4gtv-4gtv056
-#EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
+#EXTINF:-1 tvg-name="台视 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视 HD
+http://litv.zapi.us.kg/?id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="民视 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视 HD
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾",民视新闻
 http://litv.zapi.us.kg/?id=litv-ftv13
@@ -368,10 +368,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv152
 http://litv.zapi.us.kg/?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾",东森超视
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾",东森超视
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
 
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛新闻
 http://litv.zapi.us.kg/?id=litv-ftv10
-#EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="国际",亚洲新闻台
+#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
